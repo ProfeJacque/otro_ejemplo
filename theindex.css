@@ -1,0 +1,108 @@
+
+h1{
+    font-size: 60px;
+    text-align-last: center ;
+    font-style: oblique;
+    letter-spacing: 20px;
+    border-radius: 10px;
+    background-color: rgba(52, 165, 185, 0.822);
+    margin-top: 50px;
+    width: 500px;
+    margin-left: 400px;
+    transition: 5s; /*transicion del titulo*/
+}
+
+body{
+    background-color: #e5e7e9;
+    
+}
+
+#principio{
+    display: flex;
+    flex-direction: row; /*acomode la lista al lado de la imagen*/
+}
+img{
+    width: 500px;/*anchura de la imagen*/
+    height: 350px;/*altura de dicha imagen*/
+    padding-left:240px ;
+    padding-right: 20px;
+}
+
+#apa{
+    font-size: 40px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-bottom: 70px;
+    margin-top: 20px;
+    letter-spacing: 20px;
+    padding-left: 50px;
+}
+
+#jii{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 40px;
+    list-style-position: outside;
+    padding-left: 30px;
+    border: none;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    background-color: rgb(155, 152, 152);
+    width: 140px;
+
+ 
+}
+
+#jiji{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 40px;
+    list-style-position: outside;
+    padding-left: 30px;
+    background-color: rgb(155, 152, 152);
+    width: 180px;
+}
+
+#jaja{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 40px;
+    list-style-position: outside;
+    padding-left: 30px;
+    background-color: rgb(155, 152, 152);
+    width: 230px;
+
+}
+
+#juas{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 40px;
+    list-style-position: outside;
+    padding-left: 30px;
+    background-color: rgb(155, 152, 152);
+    width: 260px;
+
+}
+
+
+#footer{
+    margin-top: 400px;
+    text-align: left;
+    font-size: 20px;
+    position:initial;
+    border: 1px solid rgb(155, 152, 152);
+    background-color: rgb(155, 152, 152);
+    padding-right: 10px; 
+}
+
+   
+
+
+
+    
+
+
+
+
+   

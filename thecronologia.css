@@ -1,0 +1,109 @@
+body{
+    background-color: #c7e4eb;
+}
+
+h1{
+    float: left ;
+    border: 1px solid rgb(5, 5, 102);
+    background-image: url(robotica5.jpg);
+    background-position: center;
+    text-align: center;
+    width: 280px;
+    height: 350px;
+    padding-top: 190px;
+    margin-top: 5px;
+    border-radius: 15px;
+}
+
+#era{
+    border: 2px solid #77b2c0;
+    background-color: #77b2c0;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: left;
+    width: 990px;
+    height: 110px;
+    margin-left: 315px;
+    margin-top: 50px;
+
+}
+
+#da{
+    border: 2px solid #77b2c0;
+    background-color: #77b2c0;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: left;
+    width: 990px;
+    height: 110px;
+    margin-left: 315px;
+    margin-top: 50px;
+}
+
+#eera{
+    border: 2px solid #77b2c0;
+    background-color: #77b2c0;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: left;
+    width: 990px;
+    height: 110px;
+    margin-left: 315px;
+    margin-top: 50px;
+}
+
+#aaron{
+    font-size: 15px;
+    font-style: oblique;
+    text-align: initial;
+}
+
+#aaron1{
+    text-align: end;
+    font-style: oblique;
+}
+
+h2{
+    color: rgb(29, 29, 117);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#hacha{
+    font-size: 27px;
+    color: rgb(0, 0, 0);
+    margin-left: 50px;
+}
+
+table{
+    width: 500px;
+    border-radius: 10px;
+    border-color: rgb(0, 136, 255);
+    color: rgb(0, 0, 0);
+    align-items: center;
+}
+th{
+    color: rgb(143, 85, 236);
+    border-radius: 8px;
+}
+
+td{
+    border-radius: 8px;
+    padding-left: 100px
+}
+
+#apa{
+ color: blueviolet;
+ background-color: rgb(19, 11, 61);
+ float: left;
+}
+
+a{
+    float: left;
+    color: rgb(9, 90, 90);
+}
+
+
+
+
+    
